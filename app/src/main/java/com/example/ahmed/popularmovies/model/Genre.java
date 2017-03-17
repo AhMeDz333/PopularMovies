@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.model;
+package com.example.ahmed.popularmovies.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

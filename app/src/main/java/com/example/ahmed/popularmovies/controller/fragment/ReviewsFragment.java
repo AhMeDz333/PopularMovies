@@ -6,9 +6,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.adapter.ReviewsAdapter;
-import com.example.ahmed.popularmovies.controller.model.Review;
-import com.example.ahmed.popularmovies.controller.network.ApiRequests;
+import com.example.ahmed.popularmovies.adapter.ReviewsAdapter;
+import com.example.ahmed.popularmovies.model.Review;
+import com.example.ahmed.popularmovies.network.ApiRequests;
 
 import java.util.List;
 

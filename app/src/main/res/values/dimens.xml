@@ -1,34 +1,17 @@
 <resources>
     <!-- Texts -->
-    <dimen name="text_size_xsmall">11sp</dimen>
-    <dimen name="text_size_small">12sp</dimen>
     <dimen name="text_size_medium">14sp</dimen>
     <dimen name="text_size_large">18sp</dimen>
-    <dimen name="text_size_xlarge">20sp</dimen>
-    <dimen name="text_size_xxlarge">24sp</dimen>
-    <dimen name="text_size_diff_large_small">6sp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <!-- Browse Movies -->
     <item name="movie_item_image_aspect_ratio" format="float" type="dimen">.675</item>
-    <dimen name="spinner_left_padding">0dp</dimen>
-    <dimen name="spinner_drawable_padding">16dp</dimen>
-    <dimen name="explore_spinner_width">200dp</dimen>
-    <dimen name="explore_dropdown_item_height">48dp</dimen>
-    <dimen name="button_size_small">30dp</dimen>
 
     <!-- MovieModel Details -->
-    <item name="movie_details_cover_aspect_ratio" format="float" type="dimen">1.77</item>
-    <dimen name="movie_details_poster_width">150dp</dimen>
-    <dimen name="movie_details_poster_top_margin">-16dp</dimen>
-    <dimen name="movie_details_poster_left_margin">16dp</dimen>
-    <dimen name="movie_details_margin">0dp</dimen>
-    <dimen name="movie_details_content_margin_bottom">0dp</dimen>
 
     <!-- Common -->
     <dimen name="outer_space">16dp</dimen>
     <dimen name="inner_space">8dp</dimen>
     <dimen name="inner_small">4dp</dimen>
-    <dimen name="fab_margin">16dp</dimen>
 </resources>

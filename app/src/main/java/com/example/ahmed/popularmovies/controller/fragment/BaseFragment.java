@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 
-import com.example.ahmed.popularmovies.controller.helper.RxErrorHandler;
+import com.example.ahmed.popularmovies.helper.RxErrorHandler;
 
 /**
  * Created by ahmed on 12/28/2016.

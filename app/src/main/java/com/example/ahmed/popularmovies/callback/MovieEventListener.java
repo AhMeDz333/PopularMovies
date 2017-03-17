@@ -1,6 +1,6 @@
-package com.example.ahmed.popularmovies.controller.callback;
+package com.example.ahmed.popularmovies.callback;
 
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
+import com.example.ahmed.popularmovies.model.MovieModel;
 
 /**
  * Created by ahmed on 10-Mar-17.

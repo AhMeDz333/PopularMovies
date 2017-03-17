@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.adapter;
+package com.example.ahmed.popularmovies.adapter;
 
 import android.content.Context;
 import android.net.Uri;
@@ -11,10 +11,10 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.callback.FavouriteStateListener;
-import com.example.ahmed.popularmovies.controller.callback.MovieEventListener;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
-import com.example.ahmed.popularmovies.controller.view.AspectLockedImageView;
+import com.example.ahmed.popularmovies.callback.FavouriteStateListener;
+import com.example.ahmed.popularmovies.callback.MovieEventListener;
+import com.example.ahmed.popularmovies.model.MovieModel;
+import com.example.ahmed.popularmovies.view.AspectLockedImageView;
 
 import java.util.List;
 

@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.callback.TrailerListener;
+import com.example.ahmed.popularmovies.callback.TrailerListener;
 import com.example.ahmed.popularmovies.controller.fragment.ReviewsFragment;
 import com.example.ahmed.popularmovies.controller.fragment.TrailersFragment;
 

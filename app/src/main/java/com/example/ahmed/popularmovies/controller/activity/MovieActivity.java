@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
+import com.example.ahmed.popularmovies.model.MovieModel;
 
 import butterknife.BindView;
 

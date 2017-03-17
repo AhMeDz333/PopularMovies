@@ -7,13 +7,13 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.adapter.MoviesRecyclerAdapter;
-import com.example.ahmed.popularmovies.controller.callback.FavouriteStateListener;
-import com.example.ahmed.popularmovies.controller.callback.MovieEventListener;
-import com.example.ahmed.popularmovies.controller.helper.AppPreference;
-import com.example.ahmed.popularmovies.controller.helper.MovieDatabase;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
-import com.example.ahmed.popularmovies.controller.network.ApiRequests;
+import com.example.ahmed.popularmovies.adapter.MoviesRecyclerAdapter;
+import com.example.ahmed.popularmovies.callback.FavouriteStateListener;
+import com.example.ahmed.popularmovies.callback.MovieEventListener;
+import com.example.ahmed.popularmovies.data.MovieDbHelper;
+import com.example.ahmed.popularmovies.helper.AppPreference;
+import com.example.ahmed.popularmovies.model.MovieModel;
+import com.example.ahmed.popularmovies.network.ApiRequests;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,7 +31,7 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 	private MovieEventListener eventListener;
 	private String sortType;
 	private AppPreference appPreference;
-	private MovieDatabase database;
+	private MovieDbHelper dbHelper;
 
 	public MainFragment() {
 	}
@@ -39,7 +39,7 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 	@Override
 	protected void onLayoutInflated(View root, Bundle savedInstanceState) {
 		appPreference = AppPreference.getInstance(getActivity().getApplicationContext());
-		database = MovieDatabase.getInstance();
+		dbHelper = new MovieDbHelper(context.getApplicationContext());
 		initMovieRecycler();
 		if (savedInstanceState != null) {
 			this.sortType = savedInstanceState.getString(SORT_TYPE);
@@ -70,7 +70,7 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 	}
 
 	private void loadFavourites() {
-		List<MovieModel> favouriteMovies = database.getFavouriteMovies();
+		List<MovieModel> favouriteMovies = dbHelper.getFavouriteMovies(context);
 		bindUI(favouriteMovies);
 	}
 
@@ -111,7 +111,7 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 
 	private void refreshModelFavourites(List<MovieModel> movies) {
 		for (MovieModel movieModel : movies) {
-			movieModel.setFavourite(database.isFavourite(movieModel.getMovieId()));
+			movieModel.setFavourite(dbHelper.isFavourite(context, movieModel.getMovieId()));
 		}
 	}
 
@@ -130,7 +130,13 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 	@Override
 	public void onMovieFavouriteStateChanged(int position) {
 		MovieModel movieModel = adapter.getMovieItem(position);
-		database.toggleFavourite(movieModel);
+		if (movieModel.isFavourite())
+			dbHelper.deleteFavourite(context, movieModel.getMovieId());
+		else
+			dbHelper.insertFavourite(context, movieModel);
+
+		movieModel.toggleFavourite();
+
 		if (sortType.equals(getString(R.string.favorites)))
 			loadFavourites();
 		else

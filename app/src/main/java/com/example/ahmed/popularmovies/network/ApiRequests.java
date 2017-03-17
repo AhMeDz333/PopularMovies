@@ -1,9 +1,9 @@
-package com.example.ahmed.popularmovies.controller.network;
+package com.example.ahmed.popularmovies.network;
 
-import com.example.ahmed.popularmovies.controller.model.Genre;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
-import com.example.ahmed.popularmovies.controller.model.Review;
-import com.example.ahmed.popularmovies.controller.model.Trailer;
+import com.example.ahmed.popularmovies.model.Genre;
+import com.example.ahmed.popularmovies.model.MovieModel;
+import com.example.ahmed.popularmovies.model.Review;
+import com.example.ahmed.popularmovies.model.Trailer;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

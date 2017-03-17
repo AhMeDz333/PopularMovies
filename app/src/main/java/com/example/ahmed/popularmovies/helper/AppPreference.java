@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.helper;
+package com.example.ahmed.popularmovies.helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;

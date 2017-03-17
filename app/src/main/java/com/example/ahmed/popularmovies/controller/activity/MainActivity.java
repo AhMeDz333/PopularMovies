@@ -11,10 +11,10 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.callback.FavouriteStateListener;
-import com.example.ahmed.popularmovies.controller.callback.MovieEventListener;
+import com.example.ahmed.popularmovies.callback.FavouriteStateListener;
+import com.example.ahmed.popularmovies.callback.MovieEventListener;
 import com.example.ahmed.popularmovies.controller.fragment.MainFragment;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
+import com.example.ahmed.popularmovies.model.MovieModel;
 
 import butterknife.BindView;
 

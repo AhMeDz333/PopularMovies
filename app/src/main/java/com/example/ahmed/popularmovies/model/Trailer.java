@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.model;
+package com.example.ahmed.popularmovies.model;
 
 import com.google.gson.annotations.SerializedName;
 

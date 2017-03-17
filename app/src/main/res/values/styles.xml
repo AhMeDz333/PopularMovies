@@ -31,10 +31,6 @@
         <item name="android:scrollbars">none</item>
     </style>
 
-    <style name="MovieItemFooter">
-        <item name="android:background">@color/colorPrimary</item>
-    </style>
-
     <style name="MovieItemText">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">wrap_content</item>
@@ -55,9 +51,4 @@
     </style>
 
     <!-- MovieModel details -->
-    <style name="MovieDetailSectionHeader">
-        <item name="android:textSize">@dimen/text_size_xlarge</item>
-        <item name="android:textColor">@color/colorPrimary</item>
-        <item name="android:paddingBottom">8dp</item>
-    </style>
 </resources>

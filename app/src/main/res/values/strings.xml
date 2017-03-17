@@ -11,10 +11,7 @@
     <string name="base_trailer_url">https://www.youtube.com/watch?v=%1$s</string>
     <string name="movie_item_btn_favorite_desc">Save to favorites</string>
     <string name="movie_image_desc">Movie image</string>
-    <string name="movie_details_trailer_desc">Play the trailer</string>
     <string name="movie_reviews">Reviews</string>
-    <string name="movie_videos">Trailers</string>
-    <string name="play_trailer_desc">Play trailer</string>
     <string name="title_activity_movie_fragment">Movie Details</string>
     <string name="movie_details_rating">Average rating: %1$s</string>
     <string name="movie_id_extra">movie_id</string>

@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.callback;
+package com.example.ahmed.popularmovies.callback;
 
 /**
  * Created by ahmed on 12-Mar-17.

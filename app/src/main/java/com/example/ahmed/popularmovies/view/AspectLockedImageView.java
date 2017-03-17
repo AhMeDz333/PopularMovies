@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.view;
+package com.example.ahmed.popularmovies.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;

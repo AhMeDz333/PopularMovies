@@ -18,10 +18,10 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.ahmed.popularmovies.R;
-import com.example.ahmed.popularmovies.controller.callback.FavouriteStateListener;
+import com.example.ahmed.popularmovies.callback.FavouriteStateListener;
 import com.example.ahmed.popularmovies.controller.fragment.BaseFragment;
-import com.example.ahmed.popularmovies.controller.helper.MovieDatabase;
-import com.example.ahmed.popularmovies.controller.model.MovieModel;
+import com.example.ahmed.popularmovies.data.MovieDbHelper;
+import com.example.ahmed.popularmovies.model.MovieModel;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -103,9 +103,15 @@ public class MovieFragment extends BaseFragment {
 		movieDescription.setText(movieModel.getOverview());
 		favoriteFab.setSelected(movieModel.isFavourite());
 		favoriteFab.setOnClickListener(view -> {
-			MovieDatabase database = MovieDatabase.getInstance();
-			boolean isFavourite = database.toggleFavourite(movieModel);
-			view.setSelected(isFavourite);
+			MovieDbHelper dbHelper = new MovieDbHelper(context.getApplicationContext());
+			if (movieModel.isFavourite())
+				dbHelper.deleteFavourite(context, movieModel.getMovieId());
+			else
+				dbHelper.insertFavourite(context, movieModel);
+
+			movieModel.toggleFavourite();
+			view.setSelected(!view.isSelected());
+
 			if (favouriteListener != null)
 				favouriteListener.onMovieFavouriteStateChanged(-1);
 		});

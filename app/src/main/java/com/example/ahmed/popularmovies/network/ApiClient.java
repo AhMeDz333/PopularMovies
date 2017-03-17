@@ -1,4 +1,4 @@
-package com.example.ahmed.popularmovies.controller.network;
+package com.example.ahmed.popularmovies.network;
 
 import com.google.gson.GsonBuilder;
 
