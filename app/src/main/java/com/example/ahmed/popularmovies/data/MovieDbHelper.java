@@ -99,6 +99,8 @@ public class MovieDbHelper extends SQLiteOpenHelper {
 						new String[]{String.valueOf(movieId)},
 						null
 				);
-		return cursor.moveToFirst();
+		boolean isFavourite = cursor.moveToFirst();
+		cursor.close();
+		return isFavourite;
 	}
 }

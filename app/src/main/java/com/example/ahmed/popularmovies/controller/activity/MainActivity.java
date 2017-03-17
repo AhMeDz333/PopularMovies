@@ -21,6 +21,7 @@ import butterknife.BindView;
 public class MainActivity extends BaseActivity implements MovieEventListener, FavouriteStateListener {
 	private static final String MOVIES_FRAGMENT_TAG = "movies_fragment";
 	private static final String MOVIE_DETAIL_FRAGMENT_TAG = "movie_detail_fragment";
+	private static final String MOVIE_EMPTY_FRAGMENT_TAG = "movie_empty_fragment";
 
 	@BindView(R.id.toolbar) Toolbar toolbar;
 	@Nullable
@@ -43,7 +44,7 @@ public class MainActivity extends BaseActivity implements MovieEventListener, Fa
 			if (tabletMode)
 				transaction
 						.replace(R.id.movie_list_container, mainFragment, MOVIES_FRAGMENT_TAG)
-						.replace(R.id.movie_details_container, new Fragment(), MOVIE_DETAIL_FRAGMENT_TAG)
+						.replace(R.id.movie_details_container, new Fragment(), MOVIE_EMPTY_FRAGMENT_TAG)
 						.commit();
 			else
 				transaction
