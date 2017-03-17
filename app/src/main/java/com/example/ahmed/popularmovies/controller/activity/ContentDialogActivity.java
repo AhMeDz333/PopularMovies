@@ -45,6 +45,9 @@ public class ContentDialogActivity extends BaseActivity implements TrailerListen
 	@Override
 	public void onTrailerSelected(String url) {
 		Uri uri = Uri.parse(getString(R.string.base_trailer_url, url));
-		startActivity(new Intent(Intent.ACTION_VIEW, uri));
+		Intent sendIntent = new Intent(Intent.ACTION_VIEW, uri);
+		if (sendIntent.resolveActivity(getPackageManager()) != null) {
+			startActivity(sendIntent);
+		}
 	}
 }
