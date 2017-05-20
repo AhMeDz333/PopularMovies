@@ -15,7 +15,7 @@ android {
 //        jackOptions { enabled true }
 
         def STRING = "String"
-        buildConfigField STRING, "MOVIE_DB_API_KEY", "API_KEY"
+        buildConfigField STRING, "MOVIE_DB_API_KEY", "\"144eefdfe75e0f8cb5d9f9b68d178670\""
     }
     buildTypes {
         release {

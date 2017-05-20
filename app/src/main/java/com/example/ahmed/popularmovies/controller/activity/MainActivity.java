@@ -3,6 +3,7 @@ package com.example.ahmed.popularmovies.controller.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.widget.Toolbar;
@@ -15,6 +16,7 @@ import com.example.ahmed.popularmovies.callback.FavouriteStateListener;
 import com.example.ahmed.popularmovies.callback.MovieEventListener;
 import com.example.ahmed.popularmovies.controller.fragment.MainFragment;
 import com.example.ahmed.popularmovies.model.MovieModel;
+import com.example.ahmed.popularmovies.view.AspectLockedImageView;
 
 import butterknife.BindView;
 
@@ -62,11 +64,21 @@ public class MainActivity extends BaseActivity implements MovieEventListener, Fa
 	}
 
 	@Override
-	public void onMovieSelected(MovieModel movieModel) {
+	public void onMovieSelected(MovieModel movieModel, AspectLockedImageView movieItemImage) {
 		if (!tabletMode) {
 			Intent intent = new Intent(this, MovieActivity.class);
 			intent.putExtra(MovieActivity.EXTRA_MOVIE, movieModel);
-			startActivity(intent);
+			if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
+				Bundle bundle = ActivityOptionsCompat
+						.makeSceneTransitionAnimation(
+								this,
+								movieItemImage,
+								movieItemImage.getTransitionName()
+						).toBundle();
+				startActivity(intent, bundle);
+			} else {
+				startActivity(intent);
+			}
 		} else {
 			replaceMovieFragment(movieModel);
 		}

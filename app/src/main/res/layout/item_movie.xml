@@ -22,6 +22,7 @@
             android:scaleType="centerCrop"
             android:src="@color/movie_poster_placeholder"
             app:imageAspectRatio="@dimen/movie_item_image_aspect_ratio"
+            android:transitionName="@string/poster_transition_name"
             />
 
         <LinearLayout

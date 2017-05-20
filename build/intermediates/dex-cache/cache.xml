@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\3e7680ed02dab312a70f617ffa6bdea042c73bd5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_9421f455419ac172a27b5307604926ffebe9840c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_b84f851d51913eb4d2d6f8f22edfbf771f88a079.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.1.0_a567fca77824f24ca42037e4b55c0486f21da6ae.jar" />
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_bc69f54934cf9ee6970513d59c53e1ac578ddc80.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,70 +17,52 @@
         optimize="true"
         revision="25.0.2"
         sha1="d2f725668bd22e21170381b23f8fbdf72c69d886">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\rxjava-2.0.3_126d0d641c5a50dc0533f0c24e866a44b5e12707.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\rxjava-2.0.3_126d0d641c5a50dc0533f0c24e866a44b5e12707.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_3d0a1daf219ec71fdfb48821d1f9b2b5b038ec44.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.bartoszlipinski\recyclerviewheader2\2.0.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\149bc678c794a9026fb0d3400190333c866ade4e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="3324ea9b0bf0491c7d2304ffba1322d9c11ef017">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.bartoszlipinski-recyclerviewheader2-2.0.1_4e104dfe342cdb417c8566250e927b99fa90aa57.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_0ee6e3b488369c6183054b243d3701ac785500d3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\bf0e5deb473a11eb547bb7a17e798695d7dc2209\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_af9fd7f86a094b3cace65ec65f652748ccc9b2dc.jar" />
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_183eb842834af6224fbfcac61208d460e761b428.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\dd5e635db5e256b5e326c728c17d34b4ec4e9981\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_922997a85e3700a12c4c89e2cee6e23fe0d13c9f.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_c181d4fdd9330738b56d3a49e94a1da36691a28c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\8bfb7cb5b0d8b1893725e72e20c394026ea7c958\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_5c55c34c5ff467c8d83e0be196e68398b8ec03b7.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_dd4841f11dbd7a196cd222211ed8c3feaa92e947.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.3.0\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\06396ebc6f0f508d4a64b177f75b95e2dceab1a7\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-2.3.0_9abdb532ca888c3defb682029e33e72605de355a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_f77cfd76c4a0aea07d5553f948a3bbf085f322ab.jar" />
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_5d6a01c33ae73c00fe66727da99664ac6368588d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,16 +71,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_b4cc9c3456f54de3311677629938a319d50e527d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ahmed\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\glide-3.7.0_939ac42f7b7f3ee4b84880707949c70f3fca88a6.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_b4cc9c3456f54de3311677629938a319d50e527d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +80,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_25fd88ba90f29de9e89ab57cd018d2ae508f564c.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_25fd88ba90f29de9e89ab57cd018d2ae508f564c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,25 +89,34 @@
         optimize="true"
         revision="25.0.2"
         sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_6eddcb348d08880d51bd338dc781b1a232e20e41.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_6eddcb348d08880d51bd338dc781b1a232e20e41.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.2\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\cc8d7c0e85d7a187bc0c834c6eb0050f07548ea4\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.github.ksoichiro-android-observablescrollview-1.5.2_9b15006f3dc2b651c03281458cf503d6d3864035.jar" />
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_2b72e5d454be276c6c266ba4e598584293341a27.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\845258cf8a707336f8e3850a348f58a487d79be5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.5.9_04850ef06bd2a846ebd4ae2976f5bc8d0199035a.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_3f15f9d0f5d6d3b4b6471f71f59cf3aaf7979ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\ddec45ad06fec6a7c767bb441bb68cd0bb093ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_ab6de7fe8f82994c50107f7809158c584ec4afa4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,25 +125,34 @@
         optimize="true"
         revision="25.0.2"
         sha1="06a8613d3be37408630effe790c4945543633288">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\rxlifecycle-2.0.1_282b851a00e03699ec542180e76401a122807508.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\rxlifecycle-2.0.1_282b851a00e03699ec542180e76401a122807508.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\06524384f444103e4d1a7ec23e30ac93dc1758bf\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_79f0eec5cff4999bac2461ca850e79353fe299c3.jar" />
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_194f163ce37af2df7e880647d3cdf492db76b353.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\3658dd671696c3c2abf40a962fdc7bd90f620b94\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_35f5c50c32d32ec3bfcc2a0c63b6192779bc7587.jar" />
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_36b809f4dca569d88a0b22d1cd8a0a3dc86518b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\1f9dba56d88254bddd10bf5a7406e16f4a7a7ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_4d42e7693fc490dea09ea081a0d3bb18c9a5c605.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,16 +161,52 @@
         optimize="true"
         revision="25.0.2"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_1216859745f64f1329fc8f788cfd41fbf50c0b92.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_1216859745f64f1329fc8f788cfd41fbf50c0b92.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\46f028c0fead5f008bfbc93ce6a5cae3005475cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_2471840dfb8d9e98ff4d49d8520e493535608890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\87aaf405a16368f976af892e6954ac947acf56a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_5e8d2e055271acf2ea2addeaf8ab24f702f3cee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\9ca87d7de1840af44595e1295c338cc3ecff5c2b\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_50aa1da0139f3845e981ee22e2d6bfe5a71870c7.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_f9f861bb22235f55ff34f5865b85e6c07763f3bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\88d115106dd2e10c8662314cf4c90bdb6f306b4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_daf4e40d373ce2fbf9dfe08d2997ccd170199beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\19f54851252ae3d5f6aa6ee89ddb6690437e8261\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_183e38da3232498aecd19b3bc2dc4390cee12c75.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,25 +215,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_8fe3e25b5f5a4e5dff3061b3d560e9207cd5b68d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_89a16ee1dc66fc4c1b376d5b63ef3e0750fd2964.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-android\2.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-android-2.0.1_59103cad696026a22fa3c6019f0045160595bb9b.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_8fe3e25b5f5a4e5dff3061b3d560e9207cd5b68d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +224,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\gson-2.8.0_ec8545c881621c6fb032be8db5b85382d904aefa.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\gson-2.8.0_ec8545c881621c6fb032be8db5b85382d904aefa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,7 +233,16 @@
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_8045b644a6a72b6d20cb6b723dcf3b45361568d8.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_8045b644a6a72b6d20cb6b723dcf3b45361568d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\8400e6cb100ffaea42980131927cb720a5153780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_b208d4dbdf31563f874a1610310c275e7302094e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +251,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.2.0_a2ce3eb1f5b66917190009ac20c7227a6a54b66b.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.2.0_a2ce3eb1f5b66917190009ac20c7227a6a54b66b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,25 +260,16 @@
         optimize="true"
         revision="25.0.2"
         sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_4fbace46bf407320c7570675ba12fc3c7708e1a5.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.1.0_4fbace46bf407320c7570675ba12fc3c7708e1a5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\49ae36ad82eea7a000a5b4c2cd8c912f27a3950c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_a7387a019ffa9da200ad5b787f85d8ecb50ec5e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.trello.rxlifecycle2\rxlifecycle-components\2.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.trello.rxlifecycle2-rxlifecycle-components-2.0.1_ac0899dc0df87e9f279234def1cc612b60363791.jar" />
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_769ab46a31e201b14b32d09e40c944a5016393d5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -287,7 +278,16 @@
         optimize="true"
         revision="25.0.2"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0b18c9b796dbe8d0401b4ce159a3904b3407c1dc.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0b18c9b796dbe8d0401b4ce159a3904b3407c1dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\2d4c0bac59446e8803819c69d844643e9eb73c2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_9e089640cc63308937e79f56648486c862f5d654.jar" />
     </item>
     <item
         is-multidex="false"
@@ -296,43 +296,34 @@
         optimize="true"
         revision="25.0.2"
         sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\okio-1.11.0_8490b0173fad29ce5ccd65cbb3db92498fda00b7.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\okio-1.11.0_8490b0173fad29ce5ccd65cbb3db92498fda00b7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\2188e6996525ea8ddd984456b96bc7af181b70dc\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_cd19138d863bd093426acea4e018fd0b2431c59a.jar" />
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_3d1544395c2cd4278029b81f7b0545adaf5329f6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.f2prateek.rx.preferences2\rx-preferences\2.0.0-RC1\jars\classes.jar"
+        jar="C:\Users\ahmed\.android\build-cache\9983c6c5ed23b04562a3125bc3006733f53780bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_7dc14063da1530355157bac8bfea6d3b317a75b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmed\.android\build-cache\081c013c6da6772d7412697da8f2a12d82d2cfa1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="8f9bff5eae664897cf82e9d9dd305a70c628326f">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.f2prateek.rx.preferences2-rx-preferences-2.0.0-RC1_3f40ea7653fa9cf3249324f3d962f91a8f56d1e3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_55ac3bd94b8ca061001833a3b0d7cef39d0837d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="D:\AhMeDz\SafeZone\Nano\PopularMovies\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_8f407d261e142d3ece14a5d0ef48865522e33d7a.jar" />
+        <dex dex="D:\AhMeDz\SafeZone\Nano-Degree\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_611301597a26c140d7cfc7c38512739c8c3bbbc9.jar" />
     </item>
 
 </items>

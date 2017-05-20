@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="rx-preferences-2.0.0-RC1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.f2prateek.rx.preferences2/rx-preferences/2.0.0-RC1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.f2prateek.rx.preferences2/rx-preferences/2.0.0-RC1/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/081c013c6da6772d7412697da8f2a12d82d2cfa1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/081c013c6da6772d7412697da8f2a12d82d2cfa1/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

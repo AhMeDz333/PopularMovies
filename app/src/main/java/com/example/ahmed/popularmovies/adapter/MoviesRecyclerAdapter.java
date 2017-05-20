@@ -111,7 +111,7 @@ class MovieViewHolder extends RecyclerView.ViewHolder {
 	public void setClickListener(MovieModel movieModel, MovieEventListener listener) {
 		container.setOnClickListener(view -> {
 			if (listener != null)
-				listener.onMovieSelected(movieModel);
+				listener.onMovieSelected(movieModel, movieItemImage);
 		});
 	}
 }
