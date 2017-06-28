@@ -13,50 +13,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86456deb-2236-46ba-a513-29ffd8e895e0" name="Default" comment="Changed activity titles.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_observablescrollview_1_5_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_observablescrollview_1_5_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/butterknife_8_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/butterknife_8_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/core_0_8_5_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/core_0_8_5_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_1_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_1_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/materialdatetimepicker_2_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/materialdatetimepicker_2_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerviewheader2_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerviewheader2_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rx_preferences_2_0_0_RC1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rx_preferences_2_0_0_RC1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rxandroid_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rxandroid_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_android_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_android_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_components_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_components_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/transition_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/transition_25_1_1.xml" />
+    <list default="true" id="86456deb-2236-46ba-a513-29ffd8e895e0" name="Default" comment="Added continuous transition effect for the poster.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PopularMovies.iml" afterPath="$PROJECT_DIR$/PopularMovies.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/adapter/MoviesRecyclerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/adapter/MoviesRecyclerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/callback/MovieEventListener.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/callback/MovieEventListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_movie.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_movie.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
     </list>
     <ignored path="PopularMovies.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,8 +52,18 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="69" column="55" selection-start-line="69" selection-start-column="55" selection-end-line="69" selection-end-column="55" />
+            <state relative-caret-position="290">
+              <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppPreference.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/helper/AppPreference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -101,18 +72,18 @@
       <file leaf-file-name="MoviesRecyclerAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/adapter/MoviesRecyclerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
+            <state relative-caret-position="2100">
               <caret line="113" column="67" selection-start-line="113" selection-start-column="67" selection-end-line="113" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+            <state relative-caret-position="321">
+              <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -121,18 +92,8 @@
       <file leaf-file-name="MovieFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="1925">
               <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieContract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/data/MovieContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -151,7 +112,7 @@
       <file leaf-file-name="MovieProvider.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/data/MovieProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="801">
+            <state relative-caret-position="2575">
               <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
               <folding />
             </state>
@@ -166,9 +127,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding>
-                <element signature="e#1084#1116#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -183,17 +142,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_movie.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_movie.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
-              <folding>
-                <element signature="e#3511#3543#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2050">
+              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2209,7 +2166,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/data/MovieContract.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/model/MovieModel.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/ContentDialogActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/data/MovieDbHelper.java" />
@@ -2217,6 +2173,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_movie.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java" />
       </list>
     </option>
   </component>
@@ -2259,7 +2216,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PopMovies-ContentProvider" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="SearchEverywhereHistoryKey" value="movie&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano-Degree/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;DbH&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/data/MovieDbHelper.java&#10;Login&#9;ACTION&#9;template.create.ActivityLogin Activity&#10;cont&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/ContentDialogActivity.java&#10;fr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;it&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/item_movie.xml&#10;MainAc&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;Fragment&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;Datab&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.helper.MovieDatabase&#10;bui&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/build.gradle&#10;Applic&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/MovieApplication.java&#10;mani&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;movieM&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/model/MovieModel.java&#10;build&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/build.gradle&#10;ApiC&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiClient.java&#10;Response&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.model.MovieModel.MoviesResponse&#10;Cli&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.network.ApiClient&#10;MovieAc&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieActivity.java&#10;MainA&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;trail&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/trailer_row.xml&#10;MovieF&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java&#10;Movi&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;Prefere&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/helper/AppPreference.java&#10;Sett&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.activity.SettingsActivity&#10;Movie&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/model/Movie.java&#10;Appli&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/MovieApplication.java&#10;M&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;MovieFr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java&#10;Pref&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/helper/AppPreference.java&#10;manife&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;MainFr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;Activity&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;styl&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;dime&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/dimens.xml&#10;dimes&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.resources.DispatchMessages&#10;string&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/strings.xml&#10;adapter&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/adapter/MoviesRecyclerAdapter.java&#10;style&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;fav&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/drawable/selector_favorite_button.xml&#10;man&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;Refre&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/RefreshFragment.java&#10;Base&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/BaseFragment.java&#10;api&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiInterface.java&#10;dim&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/dimens.xml&#10;GSON&#9;FILE&#9;jar://C:/Users/ahmed/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/e4a8a713cc113705f39d84d488332075ea8173e3/converter-gson-2.0.2-sources.jar!/retrofit2/converter/gson/GsonConverterFactory.java&#10;Ap&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiClient.java&#10;sty&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;str&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/strings.xml&#10;Trai&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/model/Trailer.java&#10;Review&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/model/Review.java" />
+    <property name="SearchEverywhereHistoryKey" value="prefere&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano-Degree/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/helper/AppPreference.java&#10;movie&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano-Degree/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;DbH&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/data/MovieDbHelper.java&#10;Login&#9;ACTION&#9;template.create.ActivityLogin Activity&#10;cont&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/ContentDialogActivity.java&#10;fr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;it&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/item_movie.xml&#10;MainAc&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;Fragment&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;Datab&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.helper.MovieDatabase&#10;bui&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/build.gradle&#10;Applic&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/MovieApplication.java&#10;mani&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;movieM&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/model/MovieModel.java&#10;build&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/build.gradle&#10;ApiC&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiClient.java&#10;Response&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.model.MovieModel.MoviesResponse&#10;Cli&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.network.ApiClient&#10;MovieAc&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieActivity.java&#10;MainA&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;trail&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/trailer_row.xml&#10;MovieF&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java&#10;Movi&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/layout/fragment_movie.xml&#10;Prefere&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/helper/AppPreference.java&#10;Sett&#9;PSI&#9;JAVA://com.example.ahmed.popularmovies.controller.activity.SettingsActivity&#10;Movie&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/model/Movie.java&#10;Appli&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/MovieApplication.java&#10;M&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;MovieFr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java&#10;Pref&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/helper/AppPreference.java&#10;manife&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;MainFr&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java&#10;Activity&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java&#10;styl&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;dime&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/dimens.xml&#10;dimes&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.resources.DispatchMessages&#10;string&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/strings.xml&#10;adapter&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/adapter/MoviesRecyclerAdapter.java&#10;style&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;fav&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/drawable/selector_favorite_button.xml&#10;man&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/AndroidManifest.xml&#10;Refre&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/RefreshFragment.java&#10;Base&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/BaseFragment.java&#10;api&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiInterface.java&#10;dim&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/dimens.xml&#10;GSON&#9;FILE&#9;jar://C:/Users/ahmed/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/e4a8a713cc113705f39d84d488332075ea8173e3/converter-gson-2.0.2-sources.jar!/retrofit2/converter/gson/GsonConverterFactory.java&#10;Ap&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/network/ApiClient.java&#10;sty&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/styles.xml&#10;str&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/res/values/strings.xml&#10;Trai&#9;FILE&#9;file://D:/AhMeDz/SafeZone/Nano/PopularMovies/app/src/main/java/com/example/ahmed/popularmovies/controller/model/Trailer.java" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="device.picker.selection" value="Nexus_4_API_22" />
     <property name="DEBUGGABLE_DEVICE" value="genymotion-google_galaxy_nexus___4_3___api_18___720x1280-192.168.120.101:5555" />
@@ -2282,6 +2239,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1145" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.3.1" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -2851,7 +2809,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489850460676</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added continuous transition effect for the poster.">
+      <created>1495306388449</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1495306388449</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2874,7 +2839,6 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770114" sideWeight="0.50213903" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4390244" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921588" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3218391" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38390803" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -2902,6 +2866,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921588" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -2979,7 +2944,8 @@
     <MESSAGE value="Checked before launching implicit intent." />
     <MESSAGE value="Fixed a crash and closed the cursor after checking for favourites." />
     <MESSAGE value="Fixed a crash." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed a crash." />
+    <MESSAGE value="Added continuous transition effect for the poster." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added continuous transition effect for the poster." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3183,13 +3149,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/helper/AppPreference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/callback/MovieEventListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -3228,7 +3187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3292,31 +3250,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/data/MovieProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
+        <state relative-caret-position="2575">
           <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/adapter/MoviesRecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
+        <state relative-caret-position="2100">
           <caret line="113" column="67" selection-start-line="113" selection-start-column="67" selection-end-line="113" selection-end-column="67" />
           <folding />
         </state>
@@ -3329,16 +3271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="e#1084#1116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="69" column="55" selection-start-line="69" selection-start-column="55" selection-end-line="69" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -3348,11 +3280,41 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
-          <folding>
-            <element signature="e#3511#3543#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2050">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MovieFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/helper/AppPreference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ahmed/popularmovies/controller/fragment/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>

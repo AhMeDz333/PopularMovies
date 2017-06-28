@@ -66,7 +66,6 @@ public class MainFragment extends RefreshFragment implements FavouriteStateListe
 			refreshModelFavourites(adapter.getItems());
 			adapter.notifyDataSetChanged();
 		}
-		appPreference.setSortType(sortType);
 	}
 
 	private void loadFavourites() {
